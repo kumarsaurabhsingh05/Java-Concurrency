@@ -1,0 +1,25 @@
+*target*
+*.jar
+*.war
+*.ear
+*.class
+
+# IntelliJ
+out/
+.idea/**
+
+### Java ###
+# Compiled class file
+*.class
+
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+*.iml
